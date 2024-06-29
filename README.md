@@ -3,4 +3,6 @@ This is a full stack GYM management website mainly focused on frontend with emai
 
 Tech Stack Used: 
   - React Js
-  - MongoDB
+  - Express Js
+  - Node Js
+  - CSS
